@@ -3,7 +3,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 
 
-class Pion:
+class FakePion:
     """la classe pour presenter pions"""
     def __init__(self,
                  couleur,
